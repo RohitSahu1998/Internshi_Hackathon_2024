@@ -1,2 +1,2 @@
-# Internshi_Hackathon_2024
+# Internship_Hackathon_2024
 Hackathon
